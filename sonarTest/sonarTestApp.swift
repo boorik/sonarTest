@@ -17,7 +17,7 @@ struct SonarTestApp: App {
         }
     }
 
-    func toto(index: Int) {
+    private func toto(index: Int) {
         let myLet = myVar!
         let myString = myArray[index]
     }

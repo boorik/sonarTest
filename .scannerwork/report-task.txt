@@ -1,6 +1,7 @@
-projectKey=com.ippon.sonarTest
-serverUrl=http://localhost:9000
-serverVersion=8.9.0.43852
-dashboardUrl=http://localhost:9000/dashboard?id=com.ippon.sonarTest
-ceTaskId=AXp78fl28C4dvjBgtRhz
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXp78fl28C4dvjBgtRhz
+organization=boorik
+projectKey=boorik_sonarTest
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21616
+dashboardUrl=https://sonarcloud.io/dashboard?id=boorik_sonarTest
+ceTaskId=AXp7_rSw37PqHfZ29EZx
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXp7_rSw37PqHfZ29EZx
